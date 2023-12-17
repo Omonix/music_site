@@ -1,0 +1,19 @@
+/* #ce892d */
+* {
+  transition: all 600ms;
+}
+body {
+  color: #ce892d;
+  font-size: 1.2em;
+}
+#light {
+  background-color: #dee4e7;
+}
+#dark {
+  background-color: #1e1e1e;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
